@@ -3,6 +3,8 @@ git merge firstbranch
 git reset
 same
 same
+diff_1
 diff_3
 diff_4
+diff_2
 
